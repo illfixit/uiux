@@ -1,0 +1,15 @@
+[Udemy] Advanced CSS and Sass Flexbox, Grid, Animations
+
+01 Welcome, Welcome, Welcome!
+Start
+
+
+02 Natours Project — Setup and First Steps (Part 1)
+03 How CSS Works A Look Behind the Scenes
+04 Introduction to Sass and NPM
+05 Natours Project — Using Advanced CSS and Sass (Part 2)
+06 Natours Project — Advanced Responsive Design (Part 3)
+07 Trillo Project — Master Flexbox!
+08 A Quick Introduction to CSS Grid Layouts
+09 Nexter Project — Master CSS Grid Layouts!
+10 That's It, Everyone!
