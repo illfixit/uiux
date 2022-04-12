@@ -2,7 +2,7 @@
 
 01 Welcome, Welcome, Welcome!
 Start
-
+Finish
 
 02 Natours Project — Setup and First Steps (Part 1)
 03 How CSS Works A Look Behind the Scenes
