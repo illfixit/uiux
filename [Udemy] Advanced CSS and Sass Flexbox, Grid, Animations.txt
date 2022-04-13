@@ -10,7 +10,7 @@ Finish
 
 03 How CSS Works A Look Behind the Scenes
 Start
-
+Finish
 
 04 Introduction to Sass and NPM
 05 Natours Project — Using Advanced CSS and Sass (Part 2)
