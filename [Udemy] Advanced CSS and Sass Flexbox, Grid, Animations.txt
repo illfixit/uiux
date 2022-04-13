@@ -5,6 +5,9 @@ Start
 Finish
 
 02 Natours Project — Setup and First Steps (Part 1)
+Start
+
+
 03 How CSS Works A Look Behind the Scenes
 04 Introduction to Sass and NPM
 05 Natours Project — Using Advanced CSS and Sass (Part 2)
