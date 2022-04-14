@@ -14,7 +14,7 @@ Finish
 
 04 Introduction to Sass and NPM
 Start
-
+Finish
 
 05 Natours Project — Using Advanced CSS and Sass (Part 2)
 06 Natours Project — Advanced Responsive Design (Part 3)
