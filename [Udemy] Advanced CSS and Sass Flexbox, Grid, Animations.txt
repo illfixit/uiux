@@ -4,7 +4,7 @@
 Start
 Finish
 
-02 Natours Project — Setup and First Steps (Part 1)
+02 Natours Project — Setup and First Steps
 Start
 Finish
 
@@ -16,8 +16,16 @@ Finish
 Start
 Finish
 
-05 Natours Project — Using Advanced CSS and Sass (Part 2)
-06 Natours Project — Advanced Responsive Design (Part 3)
+05 Natours Project — Using Advanced CSS and Sass Part 1
+Start
+
+
+05 Natours Project — Using Advanced CSS and Sass Part 2
+05 Natours Project — Using Advanced CSS and Sass Part 3
+05 Natours Project — Using Advanced CSS and Sass Part 4
+05 Natours Project — Using Advanced CSS and Sass Part 5
+
+06 Natours Project — Advanced Responsive Design
 07 Trillo Project — Master Flexbox!
 08 A Quick Introduction to CSS Grid Layouts
 09 Nexter Project — Master CSS Grid Layouts!
