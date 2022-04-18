@@ -30,7 +30,7 @@ Finish
 
 05 Natours Project — Using Advanced CSS and Sass Part 4
 Start
-
+Finish
 
 05 Natours Project — Using Advanced CSS and Sass Part 5
 
