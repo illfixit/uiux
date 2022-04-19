@@ -33,6 +33,8 @@ Start
 Finish
 
 05 Natours Project — Using Advanced CSS and Sass Part 5
+Start
+
 
 06 Natours Project — Advanced Responsive Design
 07 Trillo Project — Master Flexbox!
