@@ -38,7 +38,7 @@ Finish
 
 06 Natours Project — Advanced Responsive Design Part 1
 Start
-
+Finish
 
 06 Natours Project — Advanced Responsive Design Part 2
 07 Trillo Project — Master Flexbox!
