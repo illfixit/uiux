@@ -44,7 +44,16 @@ Finish
 Start
 Finish
 
-07 Trillo Project — Master Flexbox!
+07 Trillo Project — Master Flexbox! Part 1
+Start
+
+
+07 Trillo Project — Master Flexbox! Part 2
+07 Trillo Project — Master Flexbox! Part 3
+07 Trillo Project — Master Flexbox! Part 4
+07 Trillo Project — Master Flexbox! Part 5
+07 Trillo Project — Master Flexbox! Part 6
+
 08 A Quick Introduction to CSS Grid Layouts
 09 Nexter Project — Master CSS Grid Layouts!
 10 That's It, Everyone!
