@@ -42,7 +42,7 @@ Finish
 
 06 Natours Project — Advanced Responsive Design Part 2
 Start
-
+Finish
 
 07 Trillo Project — Master Flexbox!
 08 A Quick Introduction to CSS Grid Layouts
