@@ -70,7 +70,7 @@ Finish
 
 08 A Quick Introduction to CSS Grid Layouts Part 1
 Start
-
+Finish
 
 08 A Quick Introduction to CSS Grid Layouts Part 2
 
