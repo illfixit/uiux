@@ -68,6 +68,11 @@ Finish
 Start
 Finish
 
-08 A Quick Introduction to CSS Grid Layouts
+08 A Quick Introduction to CSS Grid Layouts Part 1
+Start
+
+
+08 A Quick Introduction to CSS Grid Layouts Part 2
+
 09 Nexter Project — Master CSS Grid Layouts!
 10 That's It, Everyone!
