@@ -66,6 +66,7 @@ Finish
 
 07 Trillo Project — Master Flexbox! Part 6
 Start
+Finish
 
 08 A Quick Introduction to CSS Grid Layouts
 09 Nexter Project — Master CSS Grid Layouts!
