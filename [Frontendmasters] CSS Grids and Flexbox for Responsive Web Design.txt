@@ -24,7 +24,10 @@ Finish
 Start
 Finish
 
-7. CSS Grid
+7. CSS Grid Part 1
 Start
+Finish
 
+7. CSS Grid Part 2
+7. CSS Grid Part 3
 8. Wrapping up
