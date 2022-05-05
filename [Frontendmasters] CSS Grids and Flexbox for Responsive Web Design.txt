@@ -29,5 +29,11 @@ Start
 Finish
 
 7. CSS Grid Part 2
+Start
+
+
 7. CSS Grid Part 3
+
+
+
 8. Wrapping up
