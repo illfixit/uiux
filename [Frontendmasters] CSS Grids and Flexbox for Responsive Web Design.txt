@@ -34,6 +34,6 @@ Finish
 
 7. CSS Grid Part 3
 Start
-
+Finish
 
 8. Wrapping up
