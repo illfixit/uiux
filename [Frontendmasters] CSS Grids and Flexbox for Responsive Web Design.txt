@@ -33,7 +33,7 @@ Start
 Finish
 
 7. CSS Grid Part 3
-
+Start
 
 
 8. Wrapping up
