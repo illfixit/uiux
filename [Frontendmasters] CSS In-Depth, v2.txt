@@ -2,7 +2,7 @@ Frontendmasters - CSS In-Depth, v2
 
 1. Introduction
 Start
-
+Finish
 
 2. Selectors
 3. Pseudo-Elements
