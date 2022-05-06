@@ -1,0 +1,20 @@
+Frontendmasters - CSS In-Depth, v2
+
+1. Introduction
+Start
+
+
+2. Selectors
+3. Pseudo-Elements
+4. Generated Content
+5. Media Queries
+6. Colors & Appearance
+7. Flexbox
+8. Tables
+9. Grid
+10. Backgrounds & Borders
+11. Gradients
+12. Transforms
+13. Transitions
+14. Animations
+15. Other Features
