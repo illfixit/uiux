@@ -6,6 +6,7 @@ Finish
 
 2. Selectors
 Start
+Finish
 
 3. Pseudo-Elements
 4. Generated Content
