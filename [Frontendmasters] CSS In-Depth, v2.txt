@@ -10,7 +10,7 @@ Finish
 
 3. Pseudo-Elements
 Start
-
+Finish
 
 4. Generated Content
 5. Media Queries
