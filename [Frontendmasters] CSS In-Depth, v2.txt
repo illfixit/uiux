@@ -5,6 +5,8 @@ Start
 Finish
 
 2. Selectors
+Start
+
 3. Pseudo-Elements
 4. Generated Content
 5. Media Queries
