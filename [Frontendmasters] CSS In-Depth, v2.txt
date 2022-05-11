@@ -14,7 +14,7 @@ Finish
 
 4. Generated Content
 Start
-
+Finish
 
 5. Media Queries
 6. Colors & Appearance
