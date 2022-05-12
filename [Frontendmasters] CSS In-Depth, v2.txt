@@ -18,7 +18,7 @@ Finish
 
 5. Media Queries
 Start
-
+Finish
 
 6. Colors & Appearance
 7. Flexbox
