@@ -22,7 +22,7 @@ Finish
 
 6. Colors & Appearance
 Start
-
+Finish
 
 7. Flexbox
 8. Tables
