@@ -21,6 +21,9 @@ Start
 Finish
 
 6. Colors & Appearance
+Start
+
+
 7. Flexbox
 8. Tables
 9. Grid
