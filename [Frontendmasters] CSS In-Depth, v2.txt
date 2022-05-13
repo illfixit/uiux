@@ -26,7 +26,7 @@ Finish
 
 7. Flexbox
 Start
-
+Finish
 
 8. Tables
 9. Grid
