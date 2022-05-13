@@ -30,7 +30,7 @@ Finish
 
 8. Tables
 Start
-
+Finish
 
 9. Grid
 10. Backgrounds & Borders
