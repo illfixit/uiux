@@ -38,7 +38,7 @@ Finish
 
 10. Backgrounds & Borders
 Start
-
+Finish
 
 11. Gradients
 12. Transforms
