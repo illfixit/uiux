@@ -33,6 +33,9 @@ Start
 Finish
 
 9. Grid
+Start
+
+
 10. Backgrounds & Borders
 11. Gradients
 12. Transforms
