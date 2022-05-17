@@ -46,7 +46,7 @@ Finish
 
 12. Transforms
 Start
-
+Finish
 
 13. Transitions
 14. Animations
