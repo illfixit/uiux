@@ -42,7 +42,7 @@ Finish
 
 11. Gradients
 Start
-
+Finish
 
 12. Transforms
 13. Transitions
