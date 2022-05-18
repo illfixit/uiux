@@ -50,7 +50,7 @@ Finish
 
 13. Transitions
 Start
-
+Finish
 
 14. Animations
 15. Other Features
