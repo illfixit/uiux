@@ -1,0 +1,40 @@
+[Udemy] Complete Web & Mobile Designer in 2021
+
+01 Introduction
+02 Section 1_ GETTING STARTED - Sketching, Inspiration, User Flows
+03 Sketching
+04 Inspiration
+05 Introduction To Figma
+06 User Flows
+07 Sitemaps
+08 Section 2_ EXPLORE & ITERATE - Wireframes, Prototyping, and Feedback
+09 Wireframes
+10 Prototyping
+11 Feedback
+12 Section 3_ VISUAL DESIGN - Design Theory + Accessibility
+13 Spacing And The Grid
+14 Typography
+15 Color
+16 Forms + UI Elements
+17 Visual Assets
+18 Accessibility
+19 Section 4_ DESIGN EXPLORATION - Application Design + Design Systems
+20 Design Patterns
+21 Mobile Design
+22 Visual Style + Exploration
+23 Motion
+24 Microinteractions
+25 Section 5_ PUTTING IT ALL TOGETHER _ Design Systems and Final Compositions
+26 Design Systems
+27 Final Compositions
+28 Working With A Client Revisited
+29 Where To Go From Here_
+30 Web Portfolio
+31 From Figma To Website_ Building Our Landing Page
+32 Bonus_ How The Internet Works
+33 Bonus_ History Of The Web
+34 Bonus_ HTML 5
+35 Bonus_ CSS 3
+36 Bonus_ Bootstrap, Templates, And Building Your Startup Landing Page
+37 Bonus_ CSS Grid + CSS Layout
+38 BONUS SECTION
