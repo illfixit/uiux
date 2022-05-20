@@ -9,6 +9,9 @@ Start
 Finish
 
 03 Sketching
+Start
+
+
 04 Inspiration
 05 Introduction To Figma
 06 User Flows
