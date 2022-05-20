@@ -5,6 +5,9 @@ Start
 Finish
 
 02 Section 1_ GETTING STARTED - Sketching, Inspiration, User Flows
+Start
+
+
 03 Sketching
 04 Inspiration
 05 Introduction To Figma
