@@ -17,6 +17,9 @@ Start
 Finish
 
 05 Introduction To Figma
+Start
+
+
 06 User Flows
 07 Sitemaps
 08 Section 2_ EXPLORE & ITERATE - Wireframes, Prototyping, and Feedback
