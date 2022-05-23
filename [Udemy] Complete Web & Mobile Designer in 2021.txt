@@ -14,7 +14,7 @@ Finish
 
 04 Inspiration
 Start
-
+Finish
 
 05 Introduction To Figma
 06 User Flows
