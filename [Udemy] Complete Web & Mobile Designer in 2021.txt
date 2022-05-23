@@ -13,6 +13,9 @@ Start
 Finish
 
 04 Inspiration
+Start
+
+
 05 Introduction To Figma
 06 User Flows
 07 Sitemaps
