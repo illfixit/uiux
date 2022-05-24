@@ -22,7 +22,7 @@ Finish
 
 06 User Flows
 Start
-
+Finish
 
 07 Sitemaps
 08 Section 2_ EXPLORE & ITERATE - Wireframes, Prototyping, and Feedback
