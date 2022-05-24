@@ -26,7 +26,7 @@ Finish
 
 07 Sitemaps
 Start
-
+Finish
 
 08 Section 2_ EXPLORE & ITERATE - Wireframes, Prototyping, and Feedback
 09 Wireframes
