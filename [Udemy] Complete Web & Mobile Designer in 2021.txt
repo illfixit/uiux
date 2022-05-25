@@ -30,7 +30,7 @@ Finish
 
 08 Section 2_ EXPLORE & ITERATE - Wireframes, Prototyping, and Feedback
 Start
-
+Finish
 
 09 Wireframes
 10 Prototyping
