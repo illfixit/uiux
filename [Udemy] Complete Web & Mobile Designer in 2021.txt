@@ -38,7 +38,7 @@ Finish
 
 10 Prototyping
 Start
-
+Finish
 
 11 Feedback
 12 Section 3_ VISUAL DESIGN - Design Theory + Accessibility
