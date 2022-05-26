@@ -42,7 +42,7 @@ Finish
 
 11 Feedback
 Start
-
+Finish
 
 12 Section 3_ VISUAL DESIGN - Design Theory + Accessibility
 13 Spacing And The Grid
