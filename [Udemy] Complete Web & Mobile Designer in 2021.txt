@@ -45,6 +45,9 @@ Start
 Finish
 
 12 Section 3_ VISUAL DESIGN - Design Theory + Accessibility
+Start
+
+
 13 Spacing And The Grid
 14 Typography
 15 Color
