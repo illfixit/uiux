@@ -65,6 +65,9 @@ Start
 Finish
 
 17 Visual Assets
+Start
+
+
 18 Accessibility
 19 Section 4_ DESIGN EXPLORATION - Application Design + Design Systems
 20 Design Patterns
