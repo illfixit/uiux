@@ -69,6 +69,9 @@ Start
 Finish
 
 18 Accessibility
+Start
+
+
 19 Section 4_ DESIGN EXPLORATION - Application Design + Design Systems
 20 Design Patterns
 21 Mobile Design
