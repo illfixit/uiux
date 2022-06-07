@@ -74,7 +74,7 @@ Finish
 
 19 Section 4_ DESIGN EXPLORATION - Application Design + Design Systems
 Start
-
+Finish
 
 20 Design Patterns
 21 Mobile Design
