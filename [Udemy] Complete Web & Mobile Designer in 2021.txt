@@ -78,7 +78,7 @@ Finish
 
 20 Design Patterns
 Start
-
+Finish
 
 21 Mobile Design
 22 Visual Style + Exploration
