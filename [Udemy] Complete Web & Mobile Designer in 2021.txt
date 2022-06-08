@@ -85,6 +85,9 @@ Start
 Finish
 
 22 Visual Style + Exploration
+Start
+
+
 23 Motion
 24 Microinteractions
 25 Section 5_ PUTTING IT ALL TOGETHER _ Design Systems and Final Compositions
