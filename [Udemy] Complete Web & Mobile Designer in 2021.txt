@@ -86,7 +86,7 @@ Finish
 
 22 Visual Style + Exploration
 Start
-
+Finish
 
 23 Motion
 24 Microinteractions
