@@ -89,6 +89,9 @@ Start
 Finish
 
 23 Motion
+Start
+
+
 24 Microinteractions
 25 Section 5_ PUTTING IT ALL TOGETHER _ Design Systems and Final Compositions
 26 Design Systems
