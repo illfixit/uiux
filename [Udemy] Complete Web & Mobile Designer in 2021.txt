@@ -106,7 +106,7 @@ Finish
 
 27 Final Compositions
 Start
-
+Finish
 
 28 Working With A Client Revisited
 29 Where To Go From Here_
