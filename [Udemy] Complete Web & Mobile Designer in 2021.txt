@@ -114,7 +114,7 @@ Finish
 
 29 Where To Go From Here_
 Start
-
+Finish
 
 30 Web Portfolio
 31 From Figma To Website_ Building Our Landing Page
