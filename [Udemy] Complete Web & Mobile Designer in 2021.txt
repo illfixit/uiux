@@ -122,7 +122,7 @@ Finish
 
 31 From Figma To Website_ Building Our Landing Page
 Start
-
+Finish
 
 32 Bonus_ How The Internet Works
 33 Bonus_ History Of The Web
