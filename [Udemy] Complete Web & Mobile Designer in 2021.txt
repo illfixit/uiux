@@ -121,6 +121,9 @@ Start
 Finish
 
 31 From Figma To Website_ Building Our Landing Page
+Start
+
+
 32 Bonus_ How The Internet Works
 33 Bonus_ History Of The Web
 34 Bonus_ HTML 5
