@@ -146,6 +146,6 @@ Finish
 
 37 Bonus_ CSS Grid + CSS Layout
 Start
-
+Finish
 
 38 BONUS SECTION
