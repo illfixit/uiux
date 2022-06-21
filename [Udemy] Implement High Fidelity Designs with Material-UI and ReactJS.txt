@@ -4,7 +4,13 @@
 Start
 Finish
 
-02 Take It From The Top - Headers and Navigation
+02 Take It From The Top - Headers and Navigation Part I
+Start
+
+
+02 Take It From The Top - Headers and Navigation Part II
+02 Take It From The Top - Headers and Navigation Part III
+
 03 Adding Header Features - Menus and Responsive Design
 04 Bottoms Up! Footers and Basic Layouts
 05 Hitting The Ground Running - Animations and The Landing Page
