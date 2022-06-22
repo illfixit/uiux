@@ -9,6 +9,9 @@ Start
 Finish
 
 02 Take It From The Top - Headers and Navigation Part II
+Start
+
+
 02 Take It From The Top - Headers and Navigation Part III
 
 03 Adding Header Features - Menus and Responsive Design
