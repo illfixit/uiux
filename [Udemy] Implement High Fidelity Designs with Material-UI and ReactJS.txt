@@ -16,7 +16,13 @@ Finish
 Start
 Finish
 
-03 Adding Header Features - Menus and Responsive Design
+03 Adding Header Features - Menus and Responsive Design Part I
+Start
+
+
+03 Adding Header Features - Menus and Responsive Design Part II
+03 Adding Header Features - Menus and Responsive Design Part III
+
 04 Bottoms Up! Footers and Basic Layouts
 05 Hitting The Ground Running - Animations and The Landing Page
 06 Complex Layouts
