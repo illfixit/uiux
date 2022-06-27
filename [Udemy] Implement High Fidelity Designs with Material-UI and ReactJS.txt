@@ -29,6 +29,9 @@ Start
 Finish
 
 04 Bottoms Up! Footers and Basic Layouts
+Start
+
+
 05 Hitting The Ground Running - Animations and The Landing Page
 06 Complex Layouts
 07 Inputs, Validation, and Confirmation
