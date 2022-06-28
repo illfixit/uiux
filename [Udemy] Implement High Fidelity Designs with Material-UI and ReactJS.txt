@@ -32,7 +32,13 @@ Finish
 Start
 Finish
 
-05 Hitting The Ground Running - Animations and The Landing Page
+05 Hitting The Ground Running - Animations and The Landing Page Part I
+Start
+
+
+05 Hitting The Ground Running - Animations and The Landing Page Part II
+05 Hitting The Ground Running - Animations and The Landing Page Part III
+
 06 Complex Layouts
 07 Inputs, Validation, and Confirmation
 08 Google Cloud Functions
