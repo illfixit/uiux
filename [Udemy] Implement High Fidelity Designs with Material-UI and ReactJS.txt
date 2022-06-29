@@ -41,6 +41,9 @@ Start
 Finish
 
 05 Hitting The Ground Running - Animations and The Landing Page Part III
+Start
+
+
 
 06 Complex Layouts
 07 Inputs, Validation, and Confirmation
