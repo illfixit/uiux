@@ -42,7 +42,7 @@ Finish
 
 05 Hitting The Ground Running - Animations and The Landing Page Part III
 Start
-
+Finish
 
 
 06 Complex Layouts
