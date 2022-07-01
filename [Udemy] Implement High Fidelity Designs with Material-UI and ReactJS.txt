@@ -62,7 +62,7 @@ Finish
 
 06 Complex Layouts Part V
 Start
-
+Finish
 
 07 Inputs, Validation, and Confirmation
 08 Google Cloud Functions
