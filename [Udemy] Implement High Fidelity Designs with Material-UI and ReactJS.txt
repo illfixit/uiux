@@ -69,7 +69,7 @@ Start
 Finish
 
 07 Inputs, Validation, and Confirmation Part II
-
+Start
 
 
 08 Google Cloud Functions
