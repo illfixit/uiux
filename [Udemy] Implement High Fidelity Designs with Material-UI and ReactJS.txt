@@ -70,7 +70,7 @@ Finish
 
 07 Inputs, Validation, and Confirmation Part II
 Start
-
+Finish
 
 08 Google Cloud Functions
 09 Network Requests
