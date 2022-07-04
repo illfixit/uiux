@@ -64,7 +64,14 @@ Finish
 Start
 Finish
 
-07 Inputs, Validation, and Confirmation
+07 Inputs, Validation, and Confirmation Part I
+Start
+
+
+07 Inputs, Validation, and Confirmation Part II
+
+
+
 08 Google Cloud Functions
 09 Network Requests
 10 Putting It All Together - Estimate Page
