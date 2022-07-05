@@ -74,7 +74,7 @@ Finish
 
 08 Google Cloud Functions
 Start
-
+Finish
 
 09 Network Requests
 10 Putting It All Together - Estimate Page
