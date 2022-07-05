@@ -73,6 +73,9 @@ Start
 Finish
 
 08 Google Cloud Functions
+Start
+
+
 09 Network Requests
 10 Putting It All Together - Estimate Page
 11 Search Engine Optimization (SEO)
