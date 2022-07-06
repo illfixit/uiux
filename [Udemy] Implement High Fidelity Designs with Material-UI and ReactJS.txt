@@ -80,7 +80,15 @@ Finish
 Start
 Finish
 
-10 Putting It All Together - Estimate Page
+10 Putting It All Together - Estimate Page Part I
+Start
+
+
+10 Putting It All Together - Estimate Page Part II
+10 Putting It All Together - Estimate Page Part III
+10 Putting It All Together - Estimate Page Part IV
+10 Putting It All Together - Estimate Page Part V
+
 11 Search Engine Optimization (SEO)
 12 Cross-Browser Support
 13 Deployment
