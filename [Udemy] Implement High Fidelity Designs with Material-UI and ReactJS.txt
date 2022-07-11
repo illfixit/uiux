@@ -97,8 +97,13 @@ Start
 Finish
 
 10 Putting It All Together - Estimate Page Part V
+Start
+
 
 11 Search Engine Optimization (SEO)
+
+
+
 12 Cross-Browser Support
 13 Deployment
 14 Google Analytics
