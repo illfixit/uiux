@@ -100,9 +100,12 @@ Finish
 Start
 Finish
 
-11 Search Engine Optimization (SEO)
+11 Search Engine Optimization (SEO) Part I
+Start
 
 
+11 Search Engine Optimization (SEO) Part II
+11 Search Engine Optimization (SEO) Part III
 
 12 Cross-Browser Support
 13 Deployment
