@@ -110,7 +110,7 @@ Finish
 
 11 Search Engine Optimization (SEO) Part III
 Start
-
+Finish
 
 12 Cross-Browser Support
 13 Deployment
