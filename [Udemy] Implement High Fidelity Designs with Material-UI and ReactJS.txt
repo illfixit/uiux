@@ -117,6 +117,9 @@ Start
 Finish
 
 13 Deployment
+Start
+
+
 14 Google Analytics
 15 Project Manager
 16 BONUS VIDEOS
