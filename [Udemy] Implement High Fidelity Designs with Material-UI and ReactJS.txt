@@ -124,5 +124,14 @@ Finish
 Start
 Finish
 
-15 Project Manager
+15 Project Manager Part I
+Start
+
+
+15 Project Manager Part II
+15 Project Manager Part III
+15 Project Manager Part IV
+15 Project Manager Part V
+15 Project Manager Part VI
+
 16 BONUS VIDEOS
